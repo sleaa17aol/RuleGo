@@ -1,0 +1,1660 @@
+host, 1password-scim.patreon.com, DIRECT
+github.githubassets.com
+central.github.com
+desktop.githubusercontent.com
+assets-cdn.github.com
+camo.githubusercontent.com
+github.map.fastly.net
+github.global.ssl.fastly.net
+gist.github.com
+github.io
+github.com
+api.github.com
+raw.githubusercontent.com
+user-images.githubusercontent.com
+favicons.githubusercontent.com
+avatars5.githubusercontent.com
+avatars4.githubusercontent.com
+avatars3.githubusercontent.com
+avatars2.githubusercontent.com
+avatars1.githubusercontent.com
+avatars0.githubusercontent.com
+avatars.githubusercontent.com
+codeload.github.com
+github-cloud.s3.amazonaws.com
+github-com.s3.amazonaws.com
+github-production-release-asset-2e65be.s3.amazonaws.com
+github-production-user-asset-6210df.s3.amazonaws.com
+github-production-repository-file-5c1aeb.s3.amazonaws.com
+githubstatus.com
+github.community
+media.githubusercontent.com
+objects.githubusercontent.com
+raw.github.com
+copilot-proxy.githubusercontent.com
+account.apple.com
+albert.apple.com
+api.apple-cloudkit.com
+api.edu.apple.com
+api.ent.apple.com
+appattest.apple.com
+appldnld.apple.com
+appldnld.apple.com.edgesuite.net
+apple-cloudkit.com
+apple.com
+appleid.cdn-apple.com
+apple-livephotoskit.com
+apple-mapkit.com
+apple-native-relay.apple.com
+apple-relay.akamaized.net
+apple-relay.apple.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
+appleschoolcontent.com
+apps.apple.com
+app-site-association.cdn-apple.com
+app-site-association.networking.apple
+apps-marketplace.apple.com
+apzones.com
+audiocontentdownload.apple.com
+axm-adm-enroll.apple.com
+axm-adm-mdm.apple.com
+axm-adm-scep.apple.com
+axm-app.apple.com
+axm-usercontent-apple.com
+bpapi.apple.com
+business.apple.com
+captive.apple.com
+cdn-apple.com
+certs.apple.com
+cloudflare.com
+cls-ingest.itunes.apple.com
+cls-iosclient.itunes.apple.com
+configuration.apple.com
+cp4.cloudflare.com
+crl3.digicert.com
+crl4.digicert.com
+crl.apple.com
+cssubmissions.apple.com
+developer.apple.com
+deviceenrollment.apple.com
+deviceservices-external.apple.com
+devimages-cdn.apple.com
+diagassets.apple.com
+digicert.com
+dns.apple.com
+doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
+download.developer.apple.com
+edgesuite.net
+edu.apple.com
+ent.apple.com
+fastly-edge.com
+fba.apple.com
+fcs-keys-pub-prod.cdn-apple.com
+gateway.icloud.com
+gc.apple.com
+gdmf-ados.apple.com
+gdmf.apple.com
+gg.apple.com
+gsa.apple.com
+gs.apple.com
+gsra.apple.com
+guzzoni.apple.com
+humb.apple.com
+icloud.apple.com
+icloud.com
+icloud.com.cn
+icloud-content.com
+icons.axm-usercontent-apple.com
+identity.apple.com
+idmsa.apple.com
+idv.cdn-apple.com
+idv-prod1.apple.com
+ig.apple.com
+iphonesubmissions.apple.com
+iprofiles.apple.com
+ips.apple.com
+itunes.apple.com
+itunes.com
+iwork.apple.com
+lcdn-locator.apple.com
+lcdn-registration.apple.com
+mask-api.fe2.apple-dns.net
+mask-api.icloud.com
+mask.apple-dns.net
+mask-canary.icloud.com
+mask-h2.icloud.com
+mask.icloud.com
+mdmenrollment.apple.com
+mesu.apple.com
+metrics.icloud.com
+mzstatic.com
+networking.apple
+ns.itunes.apple.com
+ocsp2.apple.com
+ocsp.apple.com
+ocsp.digicert.cn
+ocsp.digicert.com
+oscdn.apple.com
+osrecovery.apple.com
+pg-bootstrap.itunes.apple.com
+playgrounds-assets-cdn.apple.com
+playgrounds-cdn.apple.com
+play.itunes.apple.com
+pong.icloud.com
+pos-device.apple.com
+ppq.apple.com
+probe.icloud.com
+push.apple.com
+safebrowsing.apple
+school.apple.com
+serverstatus.apple.com
+setup.icloud.com
+skl.apple.com
+smoot.apple.com
+smp-device-content.apple.com
+s.mzstatic.com
+sq-device.apple.com
+statici.icloud.com
+static.ips.apple.com
+suconfig.apple.com
+swcdn.apple.com
+swdist.apple.com
+swdownload.apple.com
+swscan.apple.com
+sylvan.apple.com
+tbsc.apple.com
+time.apple.com
+time-ios.apple.com
+time-macos.apple.com
+token.safebrowsing.apple
+updates.cdn-apple.com
+updates-http.cdn-apple.com
+upload.appleschoolcontent.com
+valid.apple.com
+vertexsmb.com
+vpp.itunes.apple.com
+wkms-public.apple.com
+ws-ee-maidsvc.icloud.com
+ws.school.apple.com
+www.apple.com
+xp.apple.com
+xp-cdn.apple.com
+host, abs-0.twimg.com, DIRECT
+host, abs.twimg.com, DIRECT
+host, abtest-sg-tiktok.byteoversea.com, DIRECT
+host, abtest-va-tiktok.byteoversea.com, DIRECT
+host, account-tiktok.com, DIRECT
+host, accounts.snapchat.com, DIRECT
+host, ad-center.snapchat.com, DIRECT
+host, addlive.io, DIRECT
+host, admin.patreon.com, DIRECT
+host, ads-interfaces-dev.sc-cdn.net, DIRECT
+host, ads-interfaces.sc-cdn.net, DIRECT
+host, ads-preprod.snapchat.com, DIRECT
+host, ads.snapchat.com, DIRECT
+host, adsapi.snapchat.com, DIRECT
+host, adsapi2.snapchat.com, DIRECT
+host, adsapi3.snapchat.com, DIRECT
+host, advertising.snapchat.com, DIRECT
+host, aka.sc-cdn.net, DIRECT
+host, am-api.snapchat.com, DIRECT
+host, analytics.tiktok.com, DIRECT
+host, analytics.x.com, DIRECT
+host, ap-southeast1-aws.gateway.snapchat.com, DIRECT
+host, api-0-4-0.twitter.com, DIRECT
+host, api-0-4-2.twitter.com, DIRECT
+host, api-0-4-3.twitter.com, DIRECT
+host, api-0-4-4.twitter.com, DIRECT
+host, api-0-4-5.twitter.com, DIRECT
+host, api-0-4-6.twitter.com, DIRECT
+host, api-0-4-7.twitter.com, DIRECT
+host, api-0-4-8.twitter.com, DIRECT
+host, api-0-5-0.twitter.com, DIRECT
+host, api-1-0-0.twitter.com, DIRECT
+host, api-2-0-0.twitter.com, DIRECT
+host, api-20-0-0.twitter.com, DIRECT
+host, api-21-0-0.twitter.com, DIRECT
+host, api-23-0-0.twitter.com, DIRECT
+host, api-24-0-0.twitter.com, DIRECT
+host, api-26-0-0.twitter.com, DIRECT
+host, api-28-0-0.twitter.com, DIRECT
+host, api-3-0-0.twitter.com, DIRECT
+host, api-30-0-0.twitter.com, DIRECT
+host, api-31-0-0.twitter.com, DIRECT
+host, api-32-0-0.twitter.com, DIRECT
+host, api-33-0-0.twitter.com, DIRECT
+host, api-34-0-0.twitter.com, DIRECT
+host, api-36-0-0.twitter.com, DIRECT
+host, api-37-0-0.twitter.com, DIRECT
+host, api-38-0-0.twitter.com, DIRECT
+host, api-39-0-0.twitter.com, DIRECT
+host, api-40-0-0.twitter.com, DIRECT
+host, api-41-0-0.twitter.com, DIRECT
+host, api-42-0-0.twitter.com, DIRECT
+host, api-43-0-0.twitter.com, DIRECT
+host, api-44-0-0.twitter.com, DIRECT
+host, api-45-0-0.twitter.com, DIRECT
+host, api-46-0-0.twitter.com, DIRECT
+host, api-h2.tiktokv.com, DIRECT
+host, api-kit.snapchat.com, DIRECT
+host, api-stream.twitter.com, DIRECT
+host, api.facebook.com, DIRECT
+host, api.patreon.com, DIRECT
+host, api.snapchat.com, DIRECT
+host, api.tiktok.com, DIRECT
+host, api.tiktokv.com, DIRECT
+host, api.twitter.com, DIRECT
+host, api.x.com, DIRECT
+host, api16-core-ie.tiktokv.eu, DIRECT
+host, api16-core-ycru.tiktokv.com, DIRECT
+host, api16-normal-c-useast1a.tiktokv.com, DIRECT
+host, api16-normal-ie.tiktokv.eu, DIRECT
+host, api16-normal-ycru.tiktokv.com, DIRECT
+host, api2-16-h2.musical.ly, DIRECT
+host, api2-21-h2.musical.ly, DIRECT
+host, api2.musical.ly, DIRECT
+host, app-analytics-dev.snapchat.com, DIRECT
+host, app-analytics-v2.snapchat.com, DIRECT
+host, app-analytics.snapchat.com, DIRECT
+host, app.snapchat.com, DIRECT
+host, art.snapchat.com, DIRECT
+host, asia-southeast1-gcp.api.snapchat.com, DIRECT
+host, assets.snapchat.com, DIRECT
+host, attachment.fbsbx.com, DIRECT
+host, auth.snapchat.com, DIRECT
+host, autocomplete.patreon.com, DIRECT
+host, aw.sc-cdn.net, DIRECT
+host, aws-cf.api.snapchat.com, DIRECT
+host, aws-proxy-gcp.api.snapchat.com, DIRECT
+host, aws.api.snapchat.com, DIRECT
+host, aws.duplex.snapchat.com, DIRECT
+host, b-graph.facebook.com, DIRECT
+host, beta.snappublisher.snapchat.com, DIRECT
+host, bitmoji.api.snapchat.com, DIRECT
+host, blog.patreon.com, DIRECT
+host, bolt-gcdn-staging.sc-cdn.net, DIRECT
+host, bolt-gcdn.sc-cdn.net, DIRECT
+host, bolt-gme.sc-cdn.net, DIRECT
+host, bsync-ie.tiktokv.eu, DIRECT
+host, bsync16-normal-ycru.tiktokv.com, DIRECT
+host, business-manager.snapchat.com, DIRECT
+host, business.snapchat.com, DIRECT
+host, businesshelp.snapchat.com, DIRECT
+host, c-test.sc-cdn.net, DIRECT
+host, c-test2.sc-cdn.net, DIRECT
+host, c-test3.sc-cdn.net, DIRECT
+host, c-test4.sc-cdn.net, DIRECT
+host, c1.patreon.com, DIRECT
+host, c10.patreon.com, DIRECT
+host, c10.patreonusercontent.com, DIRECT
+host, c11.patreon.com, DIRECT
+host, c12.patreon.com, DIRECT
+host, c13.patreon.com, DIRECT
+host, c14.patreon.com, DIRECT
+host, c15.patreon.com, DIRECT
+host, c16.patreon.com, DIRECT
+host, c17.patreon.com, DIRECT
+host, c18.patreon.com, DIRECT
+host, c19.patreon.com, DIRECT
+host, c2.patreon.com, DIRECT
+host, c20.patreon.com, DIRECT
+host, c3.patreon.com, DIRECT
+host, c4.patreon.com, DIRECT
+host, c5.patreon.com, DIRECT
+host, c6.patreon.com, DIRECT
+host, c7.patreon.com, DIRECT
+host, c8.patreon.com, DIRECT
+host, c9.patreon.com, DIRECT
+host, calendar.snapchat.com, DIRECT
+host, caratlane.patreon.com, DIRECT
+host, cdn-telegram.org, DIRECT
+host, cdn.snapchat.com, DIRECT
+host, cdn.syndication.twimg.com, DIRECT
+host, cdn1.patreon.com, DIRECT
+host, cdn2.patreon.com, DIRECT
+host, cdn4.patreon.com, DIRECT
+host, cdn5.patreon.com, DIRECT
+host, cdn6.patreon.com, DIRECT
+host, cdn7.patreon.com, DIRECT
+host, cdninstagram.com, DIRECT
+host, cf-st.sc-cdn.net, DIRECT
+host, cf.perf.linkedin.com, DIRECT
+host, chat-e2ee-mini.facebook.com, DIRECT
+host, chat-gateway-prod.chat.snapchat.com, DIRECT
+host, click.email.snapchat.com, DIRECT
+host, click.learn.ads.snapchat.com, DIRECT
+host, click.snapchat.com, DIRECT
+host, cloud.email.snapchat.com, DIRECT
+host, cloudflare.sc-cdn.net, DIRECT
+host, comingsoon.patreon.com, DIRECT
+host, comments.app, DIRECT
+host, commerce-merchant.snapchat.com, DIRECT
+host, connect.facebook.net, DIRECT
+host, contest.com, DIRECT
+host, create.snapchat.com, DIRECT
+host, creator.snapchat.com, DIRECT
+host, creatorfest.patreon.com, DIRECT
+host, creatorhub.patreon.com, DIRECT
+host, creators.snapchat.com, DIRECT
+host, ct-giphy.sc-cdn.net, DIRECT
+host, cycccy.patreon.com, DIRECT
+host, dc-api.twitter.com, DIRECT
+host, de.quora.com, DIRECT
+host, deadorbit.net, DIRECT
+host, dev.facebook.com, DIRECT
+host, developer.snapchat.com, DIRECT
+host, developers.snapchat.com, DIRECT
+host, deviantart.com, DIRECT
+host, deviantart.net, DIRECT
+host, direct-response-gcp.api.snapchat.com, DIRECT
+host, dms.licdn.com, DIRECT
+host, docs.patreon.com, DIRECT
+host, docs.snapchat.com, DIRECT
+host, ds.sc-cdn.net, DIRECT
+host, ds.snapchat.com, DIRECT
+host, earn.snapchat.com, DIRECT
+host, edge-mqtt-fallback.facebook.com, DIRECT
+host, edge-mqtt-shv-01-hel3.facebook.com, DIRECT
+host, edge-mqtt-shv-02-frt3.facebook.com, DIRECT
+host, edge-mqtt.facebook.com, DIRECT
+host, edge-oculus-shv-01-amt2.fbcdn.net, DIRECT
+host, edge-oculus-shv-01-any2.fbcdn.net, DIRECT
+host, edge-oculus-shv-01-arn2.fbcdn.net, DIRECT
+host, edge-oculus-shv-01-cdg2.fbcdn.net, DIRECT
+host, edge-oculus-shv-01-gig2.fbcdn.net, DIRECT
+host, edge-oculus-shv-01-lga3.fbcdn.net, DIRECT
+host, edge-oculus-shv-01-mia3.fbcdn.net, DIRECT
+host, edge-oculus-shv-01-mxp1.fbcdn.net, DIRECT
+host, edge-oculus-shv-01-sea1.fbcdn.net, DIRECT
+host, edge-oculus-shv-01-vie1.fbcdn.net, DIRECT
+host, edge-oculus-shv-01-yyz1.fbcdn.net, DIRECT
+host, edge-oculus-shv-02-bom1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-amt2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-arn2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-ber1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-bog1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-bom1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-bos3.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-bru2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-cdt1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-cph2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-del1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-dus1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-eze1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-fco1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-for1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-gig2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-gmp1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-gru1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-hel2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-itm1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-jnb1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-kut2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-lga3.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-lim1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-lis1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-los2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-maa2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-mad1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-mia3.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-mrs2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-msp1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-mxp1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-nrt1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-ort2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-prg1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-qro1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-scl1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-scl2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-sea1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-sju1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-sof1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-syd2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-tpe1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-vie1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-xsp1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-01-yyz1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-02-arn2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-02-bom1.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-02-gru2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-02-kut2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-02-maa2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-02-mrs2.fbcdn.net, DIRECT
+host, edge-sonar-mini-shv-02-ort2.fbcdn.net, DIRECT
+host, edge-video-shv-01-amt2.fbcdn.net, DIRECT
+host, edge-video-shv-01-any2.fbcdn.net, DIRECT
+host, edge-video-shv-01-arn2.fbcdn.net, DIRECT
+host, edge-video-shv-01-ber1.fbcdn.net, DIRECT
+host, edge-video-shv-01-bog1.fbcdn.net, DIRECT
+host, edge-video-shv-01-bru2.fbcdn.net, DIRECT
+host, edge-video-shv-01-cdg2.fbcdn.net, DIRECT
+host, edge-video-shv-01-cdt1.fbcdn.net, DIRECT
+host, edge-video-shv-01-cgk1.fbcdn.net, DIRECT
+host, edge-video-shv-01-dus1.fbcdn.net, DIRECT
+host, edge-video-shv-01-eze1.fbcdn.net, DIRECT
+host, edge-video-shv-01-fco1.fbcdn.net, DIRECT
+host, edge-video-shv-01-gig2.fbcdn.net, DIRECT
+host, edge-video-shv-01-gmp1.fbcdn.net, DIRECT
+host, edge-video-shv-01-gru2.fbcdn.net, DIRECT
+host, edge-video-shv-01-hel2.fbcdn.net, DIRECT
+host, edge-video-shv-01-hkt1.fbcdn.net, DIRECT
+host, edge-video-shv-01-kut2.fbcdn.net, DIRECT
+host, edge-video-shv-01-lga3.fbcdn.net, DIRECT
+host, edge-video-shv-01-mad1.fbcdn.net, DIRECT
+host, edge-video-shv-01-mia3.fbcdn.net, DIRECT
+host, edge-video-shv-01-mrs2.fbcdn.net, DIRECT
+host, edge-video-shv-01-msp1.fbcdn.net, DIRECT
+host, edge-video-shv-01-mxp1.fbcdn.net, DIRECT
+host, edge-video-shv-01-nrt1.fbcdn.net, DIRECT
+host, edge-video-shv-01-ort2.fbcdn.net, DIRECT
+host, edge-video-shv-01-otp1.fbcdn.net, DIRECT
+host, edge-video-shv-01-prg1.fbcdn.net, DIRECT
+host, edge-video-shv-01-sea1.fbcdn.net, DIRECT
+host, edge-video-shv-01-sof1.fbcdn.net, DIRECT
+host, edge-video-shv-01-syd2.fbcdn.net, DIRECT
+host, edge-video-shv-01-tpe1.fbcdn.net, DIRECT
+host, edge-video-shv-01-vie1.fbcdn.net, DIRECT
+host, edge-video-shv-01-waw1.fbcdn.net, DIRECT
+host, edge-video-shv-01-xsp1.fbcdn.net, DIRECT
+host, edge-video-shv-01-yyz1.fbcdn.net, DIRECT
+host, edge-video-shv-02-arn2.fbcdn.net, DIRECT
+host, edge-video-shv-02-bom1.fbcdn.net, DIRECT
+host, edge-video-shv-02-kut2.fbcdn.net, DIRECT
+host, edge-video-shv-02-mia3.fbcdn.net, DIRECT
+host, edge-video-shv-02-mrs2.fbcdn.net, DIRECT
+host, edge-video-shv-02-ort2.fbcdn.net, DIRECT
+host, educators.snapchat.com, DIRECT
+host, email-content.sc-cdn.net, DIRECT
+host, email.email.patreon.com, DIRECT
+host, email.mailgun.patreon.com, DIRECT
+host, email.patreon.com, DIRECT
+host, email.snapchat.com, DIRECT
+host, email.updates.patreon.com, DIRECT
+host, embed.fbsbx.com, DIRECT
+host, enterpriseenrollment.patreon.com, DIRECT
+host, enterpriseregistration.patreon.com, DIRECT
+host, eu-west1-aws.gateway.snapchat.com, DIRECT
+host, europe-west1-gcp.api.snapchat.com, DIRECT
+host, events.patreon.com, DIRECT
+host, events.snapchat.com, DIRECT
+host, experience.snapchat.com, DIRECT
+host, external-lhr10-1.xx.fbcdn.net, DIRECT
+host, external-lhr6-1.xx.fbcdn.net, DIRECT
+host, external-otp1-1.xx.fbcdn.net, DIRECT
+host, external.fbeg10-1.fna.fbcdn.net, DIRECT
+host, f16-tiktok-common.ibytedtos.com, DIRECT
+host, facebook.com, DIRECT
+host, facebook.com.es, DIRECT
+host, facebook.com.vn, DIRECT
+host, facebook.fr, DIRECT
+host, fb.com, DIRECT
+host, fb.me, DIRECT
+host, fbcdn.net, DIRECT
+host, fbjs.facebook.com, DIRECT
+host, fbsbx.com, DIRECT
+host, feelinsonice.com, DIRECT
+host, ferramera.patreon.com, DIRECT
+host, fna-fbcdn-shv-01-fdel1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-01-ffjr1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-01-fktw1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-01-fmaa1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-02-fagc1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-02-fbed1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-02-fdel1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-02-fdet1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-02-ffjr1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-02-fmaa1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-03-fblr1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-03-fdel1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-03-ffjr1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-03-fmaa1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-04-fblr1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-04-fdel1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-04-ffjr1.fbcdn.net, DIRECT
+host, fna-fbcdn-shv-04-fmaa1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-01-fccu4.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-01-fdel1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-01-fdet1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-01-ffjr1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-01-fmaa1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-02-fdel1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-02-fdet1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-02-fmaa1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-03-fblr1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-03-fdel1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-03-fmaa1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-04-fblr1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-04-fdel1.fbcdn.net, DIRECT
+host, fna-fbcdn-video-shv-04-fmaa1.fbcdn.net, DIRECT
+host, fna-fbcdn-z-m-shv-01-fmaa1.fbcdn.net, DIRECT
+host, fna-fbcdn-z-m-shv-02-fdel1.fbcdn.net, DIRECT
+host, fna-fbcdn-z-m-shv-02-fmaa1.fbcdn.net, DIRECT
+host, fna-fbcdn-z-m-shv-03-fdel1.fbcdn.net, DIRECT
+host, fna-fbcdn-z-m-shv-04-fdel1.fbcdn.net, DIRECT
+host, fna-fbcdn-z-m-shv-04-fmaa1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fagc1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fapa1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fatl1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fbed1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fbna1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fdel1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fdet1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-ffcm1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-ffjr1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fgla1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fjai2.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fktw1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fmaa1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fmia1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fpat2.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fric1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fsac1.fbcdn.net, DIRECT
+host, fna-instagram-shv-01-fvga2.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fagc1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fapa1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fatl1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fbed1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fdel1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fdet1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-ffcm1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-ffjr1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fhyd1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fixc1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fmaa1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fmem1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fmia1.fbcdn.net, DIRECT
+host, fna-instagram-shv-02-fsac1.fbcdn.net, DIRECT
+host, fna-instagram-shv-03-fblr1.fbcdn.net, DIRECT
+host, fna-instagram-shv-03-fdel1.fbcdn.net, DIRECT
+host, fna-instagram-shv-03-ffjr1.fbcdn.net, DIRECT
+host, fna-instagram-shv-03-fmaa1.fbcdn.net, DIRECT
+host, fna-instagram-shv-03-fphx1.fbcdn.net, DIRECT
+host, fna-instagram-shv-04-fblr1.fbcdn.net, DIRECT
+host, fna-instagram-shv-04-fdel1.fbcdn.net, DIRECT
+host, fna-instagram-shv-04-ffjr1.fbcdn.net, DIRECT
+host, fna-instagram-shv-04-fmaa1.fbcdn.net, DIRECT
+host, focus.snapchat.com, DIRECT
+host, forbusiness.snapchat.com, DIRECT
+host, fragment.com, DIRECT
+host, frontier-ru.tiktokv.com, DIRECT
+host, g-test.sc-cdn.net, DIRECT
+host, g-test2.sc-cdn.net, DIRECT
+host, g-test3.sc-cdn.net, DIRECT
+host, g-test4.sc-cdn.net, DIRECT
+host, games.snapchat.com, DIRECT
+host, gateway.facebook.com, DIRECT
+host, gateway.instagram.com, DIRECT
+host, gcp.api.snapchat.com, DIRECT
+host, gcs.sc-cdn.net, DIRECT
+host, gecko16-platform-ycru.tiktokv.com, DIRECT
+host, geofilters-api.snapchat.com, DIRECT
+host, geofilters-community-api.snapchat.com, DIRECT
+host, geofilters.snapchat.com, DIRECT
+host, getstarted.tiktok.com, DIRECT
+host, go.patreon.com, DIRECT
+host, graph-fallback.instagram.com, DIRECT
+host, graph.facebook.com, DIRECT
+host, graph.instagram.com, DIRECT
+host, graph.org, DIRECT
+host, gravityshavings.net, DIRECT
+host, groove.snapchat.com, DIRECT
+host, gtmail.c.patreon.com, DIRECT
+host, gts.byteoversea.net, DIRECT
+host, hello.patreon.com, DIRECT
+host, help.snapchat.com, DIRECT
+host, hooks.patreon.com, DIRECT
+host, hoops.games.snapchat.com, DIRECT
+host, hotapi-ru.tiktokv.com, DIRECT
+host, i-fallback.instagram.com, DIRECT
+host, i.instagram.com, DIRECT
+host, ib.tiktokv.com, DIRECT
+host, ig.me, DIRECT
+host, im-ws-sg.tiktok.com, DIRECT
+host, image.email.snapchat.com, DIRECT
+host, image.learn.ads.snapchat.com, DIRECT
+host, instagram-p15-shv-01-amt2.fbcdn.net, DIRECT
+host, instagram-p15-shv-01-arn2.fbcdn.net, DIRECT
+host, instagram-p15-shv-01-cdg2.fbcdn.net, DIRECT
+host, instagram-p15-shv-01-cdt1.fbcdn.net, DIRECT
+host, instagram-p15-shv-01-gig2.fbcdn.net, DIRECT
+host, instagram-p15-shv-01-lga3.fbcdn.net, DIRECT
+host, instagram-p15-shv-01-mia3.fbcdn.net, DIRECT
+host, instagram-p15-shv-01-ort2.fbcdn.net, DIRECT
+host, instagram-p15-shv-01-sea1.fbcdn.net, DIRECT
+host, instagram-p15-shv-02-bom1.fbcdn.net, DIRECT
+host, instagram-p15-shv-02-ort2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-amt2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-any2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-arn2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-atl3.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-ber1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-bog1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-bom1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-bru2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-cdg2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-cdt1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-cgk1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-del1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-dus1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-eze1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-fco1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-frt3.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-frx5.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-gig2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-gmp1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-gru1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-gru2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-hel2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-hel3.fbcdn.com, DIRECT
+host, instagram-p3-shv-01-hel3.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-iad3.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-jnb1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-kut2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-lax3.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-lga3.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-los2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-maa2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-mad1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-mia3.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-mrs2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-msp1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-mxp1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-nrt1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-ort2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-otp1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-prg1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-qro1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-scl1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-scl2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-sea1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-sjc3.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-sof1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-ssn1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-syd2.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-tpe1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-vie1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-waw1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-xsp1.fbcdn.net, DIRECT
+host, instagram-p3-shv-01-yyz1.fbcdn.net, DIRECT
+host, instagram-p3-shv-02-arn2.fbcdn.net, DIRECT
+host, instagram-p3-shv-02-bom1.fbcdn.net, DIRECT
+host, instagram-p3-shv-02-gru2.fbcdn.net, DIRECT
+host, instagram-p3-shv-02-kut2.fbcdn.net, DIRECT
+host, instagram-p3-shv-02-maa2.fbcdn.net, DIRECT
+host, instagram-p3-shv-02-mia3.fbcdn.net, DIRECT
+host, instagram-p3-shv-02-mrs2.fbcdn.net, DIRECT
+host, instagram-p3-shv-02-ort2.fbcdn.net, DIRECT
+host, instagram-p4-shv-01-amt2.fbcdn.net, DIRECT
+host, instagram-p4-shv-01-arn2.fbcdn.net, DIRECT
+host, instagram-p4-shv-01-gig2.fbcdn.net, DIRECT
+host, instagram-p4-shv-01-lga3.fbcdn.net, DIRECT
+host, instagram-p4-shv-01-mia3.fbcdn.net, DIRECT
+host, instagram-p4-shv-01-sea1.fbcdn.net, DIRECT
+host, instagram-p4-shv-02-bom1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-amt2.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-any2.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-arn2.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-bru2.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-cdg2.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-cdt1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-fco1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-gig2.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-hel2.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-hkt1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-kut2.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-lga3.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-mad1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-mia3.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-mrs2.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-mxp1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-nrt1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-ort2.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-otp1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-prg1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-sea1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-sof1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-syd2.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-vie1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-waw1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-xsp1.fbcdn.net, DIRECT
+host, instagram-p42-shv-01-yyz1.fbcdn.net, DIRECT
+host, instagram-p42-shv-02-bom1.fbcdn.net, DIRECT
+host, instagram-p42-shv-02-kut2.fbcdn.net, DIRECT
+host, instagram-p42-shv-02-ort2.fbcdn.net, DIRECT
+host, instagram-p42-shv-02-xsp1.fbcdn.net, DIRECT
+host, instagram-pp-shv-01-lga3.fbcdn.net, DIRECT
+host, instagram.c10r.instagram.com, DIRECT
+host, instagram.com, DIRECT
+host, instagram.fbeg10-1.fna.fbcdn.net, DIRECT
+host, instagram.fhel5-1.fna.fbcdn.net, DIRECT
+host, instagram.frix7-1.fna.fbcdn.net, DIRECT
+host, instagram.fsof11-1.fna.fbcdn.net, DIRECT
+host, instagram.fsof8-1.fna.fbcdn.net, DIRECT
+host, interknot-network.com, DIRECT
+host, internal.snappublisher.snapchat.com, DIRECT
+host, interncache-vll.fbcdn.net, DIRECT
+host, intg.snapchat.com, DIRECT
+host, investor.snapchat.com, DIRECT
+host, iosbeta.snapchat.com, DIRECT
+host, isnssdk.com, DIRECT
+host, jaguar-prod.snapchat.com, DIRECT
+host, jltutors.patreon.com, DIRECT
+host, jobs.patreon.com, DIRECT
+host, jsb-ru.tiktokv.com, DIRECT
+host, kit-staging.snapchat.com, DIRECT
+host, kit.snapchat.com, DIRECT
+host, lawenforcement.snapchat.com, DIRECT
+host, learn.advertising.snapchat.com, DIRECT
+host, learn.patreon.com, DIRECT
+host, learnmore.patreon.com, DIRECT
+host, lens-lab.snapchat.com, DIRECT
+host, lens.games.snapchat.com, DIRECT
+host, lens.snapchat.com, DIRECT
+host, lensstudio.snapchat.com, DIRECT
+host, lenstudio.snapchat.com, DIRECT
+host, lenswebbuilder.snapchat.com, DIRECT
+host, less.snapchat.com, DIRECT
+host, levels.patreon.com, DIRECT
+host, lf1-ttcdn-tos.pstatp.com, DIRECT
+host, lf16-effectcdn-sg.tiktokcdn.com, DIRECT
+host, lf16-muse-va.ibytedtos.com, DIRECT
+host, lf16-pitayacdn.tiktokcdn.com, DIRECT
+host, lf16-tiktok-im-scp.tiktokcdn.com, DIRECT
+host, lf19-pitayacdn.tiktokcdn.com, DIRECT
+host, lf9-geckocdn.tiktokcdn.com, DIRECT
+host, libra-ru.tiktokv.com, DIRECT
+host, libra-va.tiktokv.com, DIRECT
+host, libra16-normal-ie.tiktokv.eu, DIRECT
+host, libraweb.tiktokw.eu, DIRECT
+host, link.snapchat.com, DIRECT
+host, linkedin.com, DIRECT
+host, links.patreon.com, DIRECT
+host, location-v6-ru.tiktokv.com, DIRECT
+host, log-va.tiktokv.com, DIRECT
+host, log.tiktokv.com, DIRECT
+host, log16-normal-ie.tiktokv.eu, DIRECT
+host, log16-platform-ycru.tiktokv.com, DIRECT
+host, log2.musical.ly, DIRECT
+host, login.snapchat.com, DIRECT
+host, lookaside.facebook.com, DIRECT
+host, lookaside.fbsbx.com, DIRECT
+host, m.beta.facebook.com, DIRECT
+host, m.facebook.com, DIRECT
+host, m.fbjs.facebook.com, DIRECT
+host, mail2.support.snapchat.com, DIRECT
+host, mailgun.patreon.com, DIRECT
+host, map.snapchat.com, DIRECT
+host, maps.snapchat.com, DIRECT
+host, marketing-web-api.snap.com, DIRECT
+host, marketingapi.snapchat.com, DIRECT
+host, mcs-sg.tiktokv.com, DIRECT
+host, mcs-va-useast2a.tiktokv.com, DIRECT
+host, mcs-va.tiktokv.com, DIRECT
+host, media.licdn.com, DIRECT
+host, mem-a.sc-cdn.net, DIRECT
+host, mem-c.sc-cdn.net, DIRECT
+host, mem-d.sc-cdn.net, DIRECT
+host, mem-h.sc-cdn.net, DIRECT
+host, mem-n.sc-cdn.net, DIRECT
+host, mem-o.sc-cdn.net, DIRECT
+host, merchantpool1.linkedin.com, DIRECT
+host, minis.snapchat.com, DIRECT
+host, mintlee.patreon.com, DIRECT
+host, mktg-bounce.patreon.com, DIRECT
+host, mktg.patreon.com, DIRECT
+host, ml.snapchat.com, DIRECT
+host, mon-i18n.tiktokv.com, DIRECT
+host, mon-ru.tiktokv.com, DIRECT
+host, mon.musical.ly, DIRECT
+host, mon.tiktokv.com, DIRECT
+host, moysesneva.patreon.com, DIRECT
+host, mssdk-i18n.tiktok.com, DIRECT
+host, mssdk-ru.tiktokv.com, DIRECT
+host, mssdk16-normal-ie.tiktokv.eu, DIRECT
+host, muscdn.com, DIRECT
+host, musemuse.cn, DIRECT
+host, musical.ly, DIRECT
+host, mvm-20240424.snapchat.com, DIRECT
+host, mvm.mvm-20240424.snapchat.com, DIRECT
+host, mvm.snapchat.com, DIRECT
+host, my-od.facebook.com, DIRECT
+host, my.snapchat.com, DIRECT
+host, news.patreon.com, DIRECT
+host, next.patreon.com, DIRECT
+host, nicegram.app, DIRECT
+host, nonsense.patreon.com, DIRECT
+host, o144.ptr1635.patreon.com, DIRECT
+host, o145.ptr7933.patreon.com, DIRECT
+host, oec16-normal-ycru.tiktokv.com, DIRECT
+host, omnicollector.snapchat.com, DIRECT
+host, open.patreon.com, DIRECT
+host, origincache-shv-01-rash0.fbcdn.net, DIRECT
+host, origincache-shv-01-ratn0.fbcdn.net, DIRECT
+host, origincache-shv-01-rcln0.fbcdn.net, DIRECT
+host, origincache-shv-01-rftw0.fbcdn.net, DIRECT
+host, origincache-shv-01-rlla0.fbcdn.net, DIRECT
+host, p1-tt-ipv6.byteimg.com, DIRECT
+host, p1-tt.byteimg.com, DIRECT
+host, p16-ad-sg.ibyteimg.com, DIRECT
+host, p16-amd-va.tiktokcdn.com, DIRECT
+host, p16-sg.tiktokcdn.com, DIRECT
+host, p16-sign-sg.tiktokcdn.com, DIRECT
+host, p16-sign-va.tiktokcdn.com, DIRECT
+host, p16-tiktok-sg.ibyteimg.com, DIRECT
+host, p16-tiktok-sign-va-h2.ibyteimg.com, DIRECT
+host, p16-tiktok-va-h2.ibyteimg.com, DIRECT
+host, p16-tiktok-va.ibyteimg.com, DIRECT
+host, p16-tiktokcdn-com.akamaized.net, DIRECT
+host, p16-va-tiktok.ibyteimg.com, DIRECT
+host, p26-tt.byteimg.com, DIRECT
+host, p3-tt-ipv6.byteimg.com, DIRECT
+host, p58-sg.tiktokcdn.com, DIRECT
+host, p58-va.tiktokcdn.com, DIRECT
+host, p77-sg.tiktokcdn.com, DIRECT
+host, p77-sign-sg.tiktokcdn.com, DIRECT
+host, p9-tt.byteimg.com, DIRECT
+host, parents.snapchat.com, DIRECT
+host, partnerhub-api.snapchat.com, DIRECT
+host, partners-api.snapchat.com, DIRECT
+host, partners.patreon.com, DIRECT
+host, partners.snapchat.com, DIRECT
+host, partnership.snapchat.com, DIRECT
+host, patreon.com, DIRECT
+host, payment-webhooks.patreon.com, DIRECT
+host, payments-graph.facebook.com, DIRECT
+host, payments.patreon.com, DIRECT
+host, pbs-ak.twimg.com, DIRECT
+host, pbs.twimg.com, DIRECT
+host, pbs.twimg.com.akamaized.net, DIRECT
+host, perception.sc-cdn.net, DIRECT
+host, perception.snapchat.com, DIRECT
+host, pitaya-ru.tiktokv.com, DIRECT
+host, pixiv.net, DIRECT
+host, places.snapchat.com, DIRECT
+host, platform.linkedin.com, DIRECT
+host, platform.twitter.com, DIRECT
+host, play.snapchat.com, DIRECT
+host, pref.patreon.com, DIRECT
+host, premium-stories.snapchat.com, DIRECT
+host, privacy.patreon.com, DIRECT
+host, private.minis.sc-cdn.net, DIRECT
+host, pro-accounts.sc-cdn.net, DIRECT
+host, pro-accounts.snapchat.com, DIRECT
+host, pro-insights.snapchat.com, DIRECT
+host, pro-stories.snapchat.com, DIRECT
+host, profile.snapchat.com, DIRECT
+host, public.minis.sc-cdn.net, DIRECT
+host, publish.snapchat.com, DIRECT
+host, pull-a5-gcp01.tiktokcdn.com, DIRECT
+host, pull-a5-sg01.tiktokcdn.com, DIRECT
+host, pull-a5-va01.tiktokcdn.com, DIRECT
+host, pull-c5-gcp01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-c5-gcp01.tiktokcdn.com, DIRECT
+host, pull-c5-va01.tiktokcdn.com, DIRECT
+host, pull-cmaf-f16-gcp01.tiktokcdn.com, DIRECT
+host, pull-cmaf-f16-sg01.tiktokcdn-eu.com, DIRECT
+host, pull-cmaf-f16-sg01.tiktokcdn.com, DIRECT
+host, pull-cmaf-f16-sg01.ttlivecdn.com, DIRECT
+host, pull-cmaf-f16-tt01.tiktokcdn.com, DIRECT
+host, pull-cmaf-f16-tt02-tt03.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-cmaf-f16-tt02.tiktokcdn.com, DIRECT
+host, pull-cmaf-f16-tt03.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-cmaf-f16-tt03.fcdn.us.tiktokcdn.com, DIRECT
+host, pull-cmaf-f16-tt03.tiktokcdn.com, DIRECT
+host, pull-cmaf-f16-tt04.tiktokcdn-eu.com, DIRECT
+host, pull-cmaf-f16-tt04.tiktokcdn.com, DIRECT
+host, pull-cmaf-f16-va01.tiktokcdn-eu.com, DIRECT
+host, pull-cmaf-f16-va01.tiktokcdn.com, DIRECT
+host, pull-cmaf-f5-sg01.tiktokcdn.com, DIRECT
+host, pull-cmaf-f5-va01.tiktokcdn.com, DIRECT
+host, pull-cmaf-f77-gcp01.tiktokcdn.com, DIRECT
+host, pull-cmaf-f77-sg01.tiktokcdn.com, DIRECT
+host, pull-cmaf-f77-tt03.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-cmaf-f77-tt03.tiktokcdn.com, DIRECT
+host, pull-cmaf-f77-va01.tiktokcdn.com, DIRECT
+host, pull-cmaf-l10-gcp01.tiktokcdn.com, DIRECT
+host, pull-cmaf-l10-sg01.tiktokcdn.com, DIRECT
+host, pull-cmaf-l16-gcp01.tiktokcdn.com, DIRECT
+host, pull-cmaf-l16-sg01.tiktokcdn.com, DIRECT
+host, pull-cmaf-l16-va01.tiktokcdn.com, DIRECT
+host, pull-cmaf-l77-gcp01.tiktokcdn.com, DIRECT
+host, pull-cmaf-l77-va01.tiktokcdn.com, DIRECT
+host, pull-f3-hs.pstatp.com, DIRECT
+host, pull-f5-gcp01.tiktokcdn.com, DIRECT
+host, pull-f5-hs.flive.pstatp.com, DIRECT
+host, pull-f5-hs.pstatp.com, DIRECT
+host, pull-f5-mus.pstatp.com, DIRECT
+host, pull-f5-sg01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-f5-sg01.tiktokcdn-eu.com, DIRECT
+host, pull-f5-sg01.tiktokcdn.com, DIRECT
+host, pull-f5-sg01.ttlivecdn.com, DIRECT
+host, pull-f5-tt01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-f5-tt01.tiktokcdn-eu.com, DIRECT
+host, pull-f5-tt01.tiktokcdn.com, DIRECT
+host, pull-f5-tt02.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-f5-tt02.tiktokcdn-eu.com, DIRECT
+host, pull-f5-tt02.tiktokcdn.com, DIRECT
+host, pull-f5-tt03.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-f5-tt03.tiktokcdn.com, DIRECT
+host, pull-f5-tt04.tiktokcdn-eu.com, DIRECT
+host, pull-f5-tt04.tiktokcdn.com, DIRECT
+host, pull-f5-va01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-f5-va01.tiktokcdn-eu.com, DIRECT
+host, pull-f5-va01.tiktokcdn.com, DIRECT
+host, pull-f5-vr-gcp01.tiktokcdn.com, DIRECT
+host, pull-f5-vr-sg01.tiktokcdn.com, DIRECT
+host, pull-f5-vr-va01.tiktokcdn.com, DIRECT
+host, pull-flv-f1-gcp01.tiktokcdn.com, DIRECT
+host, pull-flv-f1-hs.pstatp.com, DIRECT
+host, pull-flv-f1-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-f1-va01.tiktokcdn.com, DIRECT
+host, pull-flv-f10-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-f10-va01.tiktokcdn.com, DIRECT
+host, pull-flv-f11-gcp01.tiktokcdn.com, DIRECT
+host, pull-flv-f11-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-f11-tt01.tiktokcdn.com, DIRECT
+host, pull-flv-f11-va01.tiktokcdn.com, DIRECT
+host, pull-flv-f6-hs.pstatp.com, DIRECT
+host, pull-flv-f64-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-f64-va01.tiktokcdn.com, DIRECT
+host, pull-flv-f65-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-f65-va01.tiktokcdn.com, DIRECT
+host, pull-flv-f77-gcp01.tiktokcdn.com, DIRECT
+host, pull-flv-f77-sg01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-flv-f77-sg01.tiktokcdn-eu.com, DIRECT
+host, pull-flv-f77-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-f77-tt01-tt03.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-flv-f77-tt01.tiktokcdn-eu.com, DIRECT
+host, pull-flv-f77-tt01.tiktokcdn.com, DIRECT
+host, pull-flv-f77-tt02-tt03.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-flv-f77-tt02.tiktokcdn-eu.com, DIRECT
+host, pull-flv-f77-tt02.tiktokcdn.com, DIRECT
+host, pull-flv-f77-tt03-expt.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-flv-f77-tt03.fcdn.us.tiktokcdn.com, DIRECT
+host, pull-flv-f77-tt03.tiktokcdn.com, DIRECT
+host, pull-flv-f77-tt04.tiktokcdn-eu.com, DIRECT
+host, pull-flv-f77-tt04.tiktokcdn.com, DIRECT
+host, pull-flv-f77-va01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-flv-f77-va01.tiktokcdn-eu.com, DIRECT
+host, pull-flv-f77-va01.tiktokcdn.com, DIRECT
+host, pull-flv-l1-gcp01.tiktokcdn.com, DIRECT
+host, pull-flv-l1-hs.pstatp.com, DIRECT
+host, pull-flv-l1-mus.pstatp.com, DIRECT
+host, pull-flv-l1-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-l1-va01.tiktokcdn.com, DIRECT
+host, pull-flv-l10-gcp01.tiktokcdn.com, DIRECT
+host, pull-flv-l10-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-l10-va01.tiktokcdn.com, DIRECT
+host, pull-flv-l11-gcp01.tiktokcdn.com, DIRECT
+host, pull-flv-l11-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-l11-va01.tiktokcdn.com, DIRECT
+host, pull-flv-l16-gcp01.tiktokcdn.com, DIRECT
+host, pull-flv-l16-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-l16-va01.tiktokcdn.com, DIRECT
+host, pull-flv-l6-hs.pstatp.com, DIRECT
+host, pull-flv-l77-gcp01.eu.tiktokcdn.com, DIRECT
+host, pull-flv-l77-gcp01.tiktokcdn.com, DIRECT
+host, pull-flv-l77-sg01.eu.tiktokcdn.com, DIRECT
+host, pull-flv-l77-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-l77-tt01.eu.tiktokcdn.com, DIRECT
+host, pull-flv-l77-tt01.tiktokcdn.com, DIRECT
+host, pull-flv-l77-tt02.eu.tiktokcdn.com, DIRECT
+host, pull-flv-l77-tt02.tiktokcdn.com, DIRECT
+host, pull-flv-l77-va01.eu.tiktokcdn.com, DIRECT
+host, pull-flv-l77-va01.tiktokcdn.com, DIRECT
+host, pull-flv-o1-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-o1-va01.tiktokcdn.com, DIRECT
+host, pull-flv-o11-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-o11-va01.tiktokcdn.com, DIRECT
+host, pull-flv-o77-sg01.eu.tiktokcdn.com, DIRECT
+host, pull-flv-o77-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-o77-va01.eu.tiktokcdn.com, DIRECT
+host, pull-flv-o77-va01.tiktokcdn.com, DIRECT
+host, pull-flv-q1-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-q1-va01.tiktokcdn.com, DIRECT
+host, pull-flv-q10-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-q10-va01.tiktokcdn.com, DIRECT
+host, pull-flv-q77-sg01.eu.tiktokcdn.com, DIRECT
+host, pull-flv-q77-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-q77-va01.eu.tiktokcdn.com, DIRECT
+host, pull-flv-q77-va01.tiktokcdn.com, DIRECT
+host, pull-flv-w10-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-w10-va01.tiktokcdn.com, DIRECT
+host, pull-flv-w11-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-w11-va01.tiktokcdn.com, DIRECT
+host, pull-flv-w77-sg01.eu.tiktokcdn.com, DIRECT
+host, pull-flv-w77-sg01.tiktokcdn.com, DIRECT
+host, pull-flv-w77-va01.eu.tiktokcdn.com, DIRECT
+host, pull-flv-w77-va01.tiktokcdn.com, DIRECT
+host, pull-hls-f77-gcp01.tiktokcdn.com, DIRECT
+host, pull-hls-f77-sg01.tiktokcdn.com, DIRECT
+host, pull-hls-f77-va01.tiktokcdn.com, DIRECT
+host, pull-hls-l1-mus.pstatp.com, DIRECT
+host, pull-hls-l77-va01.tiktokcdn.com, DIRECT
+host, pull-l3-hs.pstatp.com, DIRECT
+host, pull-lls-l1-sg01.tiktokcdn.com, DIRECT
+host, pull-lls-l1-va01.tiktokcdn.com, DIRECT
+host, pull-lls-l10-sg01.tiktokcdn.com, DIRECT
+host, pull-lls-l10-va01.tiktokcdn.com, DIRECT
+host, pull-lls-l11-sg01.tiktokcdn.com, DIRECT
+host, pull-lls-l11-va01.tiktokcdn.com, DIRECT
+host, pull-lls-l11.tiktokcdn.com, DIRECT
+host, pull-o5-gcp01.tiktokcdn.com, DIRECT
+host, pull-o5-sg01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-o5-sg01.tiktokcdn.com, DIRECT
+host, pull-o5-va01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-o5-va01.tiktokcdn.com, DIRECT
+host, pull-q5-gcp01.tiktokcdn.com, DIRECT
+host, pull-q5-sg01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-q5-sg01.tiktokcdn.com, DIRECT
+host, pull-q5-sg01.ttlivecdn.com, DIRECT
+host, pull-q5-va01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-q5-va01.tiktokcdn.com, DIRECT
+host, pull-q5-va01.ttlivecdn.com, DIRECT
+host, pull-rtmp-f1-hs.pstatp.com, DIRECT
+host, pull-rtmp-f6-hs.pstatp.com, DIRECT
+host, pull-rtmp-l1-hs.pstatp.com, DIRECT
+host, pull-rtmp-l1-mus.pstatp.com, DIRECT
+host, pull-rtmp-l6-hs.pstatp.com, DIRECT
+host, pull-w5-gcp01.tiktokcdn.com, DIRECT
+host, pull-w5-sg01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-w5-sg01.tiktokcdn.com, DIRECT
+host, pull-w5-sg01.ttlivecdn.com, DIRECT
+host, pull-w5-va01.fcdn.eu.tiktokcdn.com, DIRECT
+host, pull-w5-va01.tiktokcdn.com, DIRECT
+host, pull-w5-va01.ttlivecdn.com, DIRECT
+host, pullup.patreon.com, DIRECT
+host, push-rtmp-f5-sg01.tiktokcdn.com, DIRECT
+host, push-rtmp-f5-sg01.ttlivecdn.com, DIRECT
+host, push-rtmp-f5-tt03.fcdn.eu.tiktokcdn.com, DIRECT
+host, push-rtmp-f5-tt04.tiktokcdn-eu.com, DIRECT
+host, push-rtmp-f5-vr-sg01.tiktokcdn.com, DIRECT
+host, push-rtmp-l1-sg01.tiktokcdn.com, DIRECT
+host, push-rtmp-l10-sg01.tiktokcdn.com, DIRECT
+host, push-rtmp-l11-sg01.tiktokcdn.com, DIRECT
+host, push-rtmp-l16-sg01.tiktokcdn.com, DIRECT
+host, push-rtmp-l77-sg01.tiktokcdn.com, DIRECT
+host, px.ads.linkedin.com, DIRECT
+host, px4.ads.linkedin.com, DIRECT
+host, qsbr.cf2.quoracdn.net, DIRECT
+host, quic-tiktok-core-proxy-i18n-gcpva.byteoversea.net, DIRECT
+host, quic-tiktok-proxy-i18n-gcpva.byteoversea.net, DIRECT
+host, quiz.directory, DIRECT
+host, quora.com, DIRECT
+host, reinodobicho.patreon.com, DIRECT
+host, release-manager.sc-cdn.net, DIRECT
+host, rsp.snapchat.com, DIRECT
+host, rtam-collector.snapchat.com, DIRECT
+host, rtlog16-normal-ie.tiktokv.eu, DIRECT
+host, ru-ru.facebook.com, DIRECT
+host, s.fb.com, DIRECT
+host, s.sc-cdn.net, DIRECT
+host, s.snapchat.com, DIRECT
+host, s.tiktokcdn.com, DIRECT
+host, s.twitter.com, DIRECT
+host, s20.tiktokcdn.com, DIRECT
+host, sc-cdn.net, DIRECT
+host, sc-corp.net, DIRECT
+host, sc-gw.com, DIRECT
+host, sc-jpl.com, DIRECT
+host, sc-prod.net, DIRECT
+host, sc-static.net, DIRECT
+host, scan-partners.snapchat.com, DIRECT
+host, scan.snapchat.com, DIRECT
+host, scontent-arn2-1.cdninstagram.com, DIRECT
+host, scontent-arn2-1.xx.fbcdn.net, DIRECT
+host, scontent-cdt1-1.cdninstagram.com, DIRECT
+host, scontent-frt3-1.cdninstagram.com, DIRECT
+host, scontent-frt3-1.xx.fbcdn.net, DIRECT
+host, scontent-frt3-2.cdninstagram.com, DIRECT
+host, scontent-frt3-2.xx.fbcdn.net, DIRECT
+host, scontent-frx5-1.cdninstagram.com, DIRECT
+host, scontent-frx5-1.xx.fbcdn.net, DIRECT
+host, scontent-frx5-2.cdninstagram.com, DIRECT
+host, scontent-frx5-2.xx.fbcdn.net, DIRECT
+host, scontent-hel3-1.cdninstagram.com, DIRECT
+host, scontent-hel3-1.xx.fbcdn.net, DIRECT
+host, scontent-iad3-2.cdninstagram.com, DIRECT
+host, scontent-otp1-1.cdninstagram.com, DIRECT
+host, scontent-otp1-1.xx.fbcdn.net, DIRECT
+host, scontent-prg1-1.cdninstagram.com, DIRECT
+host, scontent-prg1-1.xx.fbcdn.net, DIRECT
+host, scontent-sof1-1.cdninstagram.com, DIRECT
+host, scontent-sof1-1.xx.fbcdn.net, DIRECT
+host, scontent-sof1-2.cdninstagram.com, DIRECT
+host, scontent-sof1-2.xx.fbcdn.net, DIRECT
+host, scontent-vie1-1.cdninstagram.com, DIRECT
+host, scontent.cdninstagram.com, DIRECT
+host, scontent.fbeg10-1.fna.fbcdn.net, DIRECT
+host, search.snapchat.com, DIRECT
+host, search16-normal-c-alisg.tiktokv.com, DIRECT
+host, search16-normal-ycru.tiktokv.com, DIRECT
+host, secure.facebook.com, DIRECT
+host, secure.my-od.facebook.com, DIRECT
+host, secure.patreon.com, DIRECT
+host, session.snapchat.com, DIRECT
+host, sf1-ttcdn-tos.pstatp.com, DIRECT
+host, sf16-geckocdn.tiktokcdn.com, DIRECT
+host, sf16-ttcdn-tos.ipstatp.com, DIRECT
+host, sf16-va.tiktokcdn.com, DIRECT
+host, sf16-website-login.neutral.ttwstatic.com, DIRECT
+host, sf16m-geckocdn.tiktokcdn.com, DIRECT
+host, sf6-ttcdn-tos.pstatp.com, DIRECT
+host, sgsnssdk.com, DIRECT
+host, share.snapchat.com, DIRECT
+host, shikimori.one, DIRECT
+host, shows.snapchat.com, DIRECT
+host, sks.snapchat.com, DIRECT
+host, snap-dev.net, DIRECT
+host, snap-storage-cdn.l.google.com, DIRECT
+host, snap.com, DIRECT
+host, snap.licdn.com, DIRECT
+host, snapads.com, DIRECT
+host, snapcamera.snapchat.com, DIRECT
+host, snapchat-com, DIRECT
+host, snapchat-payments-gateway.snapchat.com, DIRECT
+host, snapchat.com, DIRECT
+host, snapcodes.snapchat.com, DIRECT
+host, snapkit.com, DIRECT
+host, snapmap.com, DIRECT
+host, snapmap.org, DIRECT
+host, snapmaps.com, DIRECT
+host, snaporiginals.snapchat.com, DIRECT
+host, snappublisher-dev.sc-cdn.net, DIRECT
+host, snappublisher.sc-cdn.net, DIRECT
+host, snappublisher.snapchat.com, DIRECT
+host, staging-spinnaker.patreon.com, DIRECT
+host, staging-us-east1-aws.api.snapchat.com, DIRECT
+host, staging.app-analytics.snapchat.com, DIRECT
+host, staging.patreon.com, DIRECT
+host, star.c10r.facebook.com, DIRECT
+host, static-exp1.licdn.com, DIRECT
+host, static-otp1-1.xx.fbcdn.net, DIRECT
+host, static-secure.patreon.com, DIRECT
+host, static.fbeg10-1.fna.fbcdn.net, DIRECT
+host, static.licdn.com, DIRECT
+host, static.snapchat.com, DIRECT
+host, static.xx.fbcdn.net, DIRECT
+host, status.patreon.com, DIRECT
+host, store.snapchat.com, DIRECT
+host, story.snapchat.com, DIRECT
+host, studio-app.snapchat.com, DIRECT
+host, studio-crash.snapchat.com, DIRECT
+host, studio.patreon.com, DIRECT
+host, subscriptions-beta.snapchat.com, DIRECT
+host, subscriptions.snapchat.com, DIRECT
+host, support.canvas.snapchat.com, DIRECT
+host, support.lensstudio.snapchat.com, DIRECT
+host, support.patreon.com, DIRECT
+host, support.snapchat.com, DIRECT
+host, support.tiktok.com, DIRECT
+host, survey.snapchat.com, DIRECT
+host, syndication.twitter.com, DIRECT
+host, t.co, DIRECT
+host, t.me, DIRECT
+host, t.snapchat.com, DIRECT
+host, tch960163.tch.quora.com, DIRECT
+host, tdesktop.com, DIRECT
+host, teleg.xyz, DIRECT
+host, telega.one, DIRECT
+host, telegra.ph, DIRECT
+host, telegram-cdn.org, DIRECT
+host, telegram.ai, DIRECT
+host, telegram.asia, DIRECT
+host, telegram.biz, DIRECT
+host, telegram.cloud, DIRECT
+host, telegram.cn, DIRECT
+host, telegram.co, DIRECT
+host, telegram.com, DIRECT
+host, telegram.de, DIRECT
+host, telegram.dev, DIRECT
+host, telegram.dog, DIRECT
+host, telegram.eu, DIRECT
+host, telegram.fr, DIRECT
+host, telegram.host, DIRECT
+host, telegram.in, DIRECT
+host, telegram.info, DIRECT
+host, telegram.io, DIRECT
+host, telegram.jp, DIRECT
+host, telegram.me, DIRECT
+host, telegram.net, DIRECT
+host, telegram.org, DIRECT
+host, telegram.qa, DIRECT
+host, telegram.ru, DIRECT
+host, telegram.services, DIRECT
+host, telegram.solutions, DIRECT
+host, telegram.space, DIRECT
+host, telegram.team, DIRECT
+host, telegram.tech, DIRECT
+host, telegram.uk, DIRECT
+host, telegram.us, DIRECT
+host, telegram.website, DIRECT
+host, telegram.xyz, DIRECT
+host, telegramapp.org, DIRECT
+host, telegramdownload.com, DIRECT
+host, telesco.pe, DIRECT
+host, tfbnw.net, DIRECT
+host, tg.dev, DIRECT
+host, tg.org, DIRECT
+host, tgram.org, DIRECT
+host, thefacebook.com, DIRECT
+host, thethirdverse.net, DIRECT
+host, tiktok-lb-alisg.byteoversea.net, DIRECT
+host, tiktok-lb-maliva.byteoversea.net, DIRECT
+host, tiktok-platform-lb-alisg.byteoversea.net, DIRECT
+host, tiktok.com, DIRECT
+host, tiktokcdn-in.com, DIRECT
+host, tiktokcdn-us.com, DIRECT
+host, tiktokcdn-us.com.atomile.com, DIRECT
+host, tiktokcdn.com, DIRECT
+host, tiktokcdn.com.atomile.com, DIRECT
+host, tiktokcdn.com.c.bytetcdn.com, DIRECT
+host, tiktokcdn.com.c.worldfcdn.com, DIRECT
+host, tiktokcdn.com.rocket-cdn.com, DIRECT
+host, tiktokd.org, DIRECT
+host, tiktokglobalshop.com, DIRECT
+host, tiktokv.com, DIRECT
+host, tiktokv.com.c.worldfcdn.com, DIRECT
+host, tiktokv.com.c.worldfcdn2.com, DIRECT
+host, tiktokw.eu, DIRECT
+host, tlivecdn.com, DIRECT
+host, tnc16-normal-ie.tiktokv.eu, DIRECT
+host, tnc16-normal-ycru.tiktokv.com, DIRECT
+host, ton.twitter.com, DIRECT
+host, topic-sticker-vending-us-east-1.snapchat.com, DIRECT
+host, topic-sticker-vending.snapchat.com, DIRECT
+host, torg.org, DIRECT
+host, touch.beta.facebook.com, DIRECT
+host, tr-shadow.snapchat.com, DIRECT
+host, tr.snapchat.com, DIRECT
+host, tr6.snapchat.com, DIRECT
+host, traffic-nts-ip-assoc.xy.fbcdn.net, DIRECT
+host, traffic-nts-ip-assoc.xz.fbcdn.net, DIRECT
+host, trends.snapchat.com, DIRECT
+host, ttlivecdn.com, DIRECT
+host, ttlivecdn.com.c.worldfcdn.com, DIRECT
+host, ttoversea.net, DIRECT
+host, ttoverseaus.net, DIRECT
+host, tweetdeck.com, DIRECT
+host, twimg.com, DIRECT
+host, twitter.com, DIRECT
+host, tx.me, DIRECT
+host, ug-attribution-ie.tiktokv.eu, DIRECT
+host, url9429.patreon.com, DIRECT
+host, us-central1-gcp.api.snapchat.com, DIRECT
+host, us-east-1-bitmoji.api.snapchat.com, DIRECT
+host, us-east-1.aws.staging.duplex.snapchat.com, DIRECT
+host, us-east-1.content-annotations-service.snapchat.com, DIRECT
+host, us-east-1.shows.snapchat.com, DIRECT
+host, us-east-1.story-studio.snapchat.com, DIRECT
+host, us-east1-aws-acc-test.api.snapchat.com, DIRECT
+host, us-east1-aws-acc.api.snapchat.com, DIRECT
+host, us-east1-aws-cf.api.snapchat.com, DIRECT
+host, us-east1-aws.api.snapchat.com, DIRECT
+host, us-east1-aws.gateway.snapchat.com, DIRECT
+host, us-east4-gcp-ineg.api.snapchat.com, DIRECT
+host, us-east4-gcp.api.snapchat.com, DIRECT
+host, us-west-2.aws.staging.duplex.snapchat.com, DIRECT
+host, us.tiktok.com, DIRECT
+host, usc1-gcp-v61.api.snapchat.com, DIRECT
+host, usc1-gcp-v62.api.snapchat.com, DIRECT
+host, use4-gcp-v4.api.snapchat.com, DIRECT
+host, use4-gcp-v6.api.snapchat.com, DIRECT
+host, usercontent.dev, DIRECT
+host, v16-tiktokcdn-com.akamaized.net, DIRECT
+host, v16-va.tiktokcdn.com, DIRECT
+host, v16a.tiktokcdn.com, DIRECT
+host, v16m.tiktokcdn.com, DIRECT
+host, v19.tiktokcdn.com, DIRECT
+host, v58.tiktokcdn.com, DIRECT
+host, v77.tiktokcdn.com, DIRECT
+host, v9.tiktokcdn.com, DIRECT
+host, vcs-ru.tiktokv.com, DIRECT
+host, vcs16-normal-ie.tiktokv.eu, DIRECT
+host, verify-sg.tiktok.com, DIRECT
+host, vgen.co, DIRECT
+host, video-frt3-1.xx.fbcdn.net, DIRECT
+host, video-frt3-2.xx.fbcdn.net, DIRECT
+host, video-frx5-1.xx.fbcdn.net, DIRECT
+host, video-frx5-2.xx.fbcdn.net, DIRECT
+host, video.twimg.com, DIRECT
+host, video.xx.fbcdn.net, DIRECT
+host, view.email.snapchat.com, DIRECT
+host, view.learn.ads.snapchat.com, DIRECT
+host, w.snapchat.com, DIRECT
+host, watch.facebook.com, DIRECT
+host, wbagora.com, DIRECT
+host, wbgames.com, DIRECT
+host, web.facebook.com, DIRECT
+host, web.snapchat.com, DIRECT
+host, webattachments.snapchat.com, DIRECT
+host, webcast-ws16-normal-ie.tiktokv.eu, DIRECT
+host, webcast16-normal-ie.tiktokv.eu, DIRECT
+host, webcast16-normal-ycru.tiktokv.com, DIRECT
+host, webcast16-ws-alisg.tiktokv.com, DIRECT
+host, webcast22-ws-alisg.tiktokv.com, DIRECT
+host, webhooks.patreon.com, DIRECT
+host, whatis.snapchat.com, DIRECT
+host, whoami.akamai.net, DIRECT
+host, wixmp.com, DIRECT
+host, x.com, DIRECT
+host, xx-fbcdn-shv-01-amt2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-any2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-arn2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-atl3.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-ber1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-bog1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-bom1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-bru2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-cdg2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-cdt1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-dus1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-eze1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-fco1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-gig2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-gmp1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-gru1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-gru2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-hel2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-hkt1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-iad3.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-kut2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-lga3.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-maa2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-mad1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-mia3.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-mrs2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-msp1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-mxp1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-nrt1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-ort2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-otp1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-prg1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-qro1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-scl1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-scl2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-sea1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-sof1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-syd2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-tpe1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-vie1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-waw1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-xsp1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-01-yyz1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-02-arn2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-02-bom1.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-02-gru2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-02-kut2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-02-maa2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-02-mia3.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-02-mrs2.fbcdn.net, DIRECT
+host, xx-fbcdn-shv-02-ort2.fbcdn.net, DIRECT
+host, xx.fbcdn.net, DIRECT
+host, z-p42-chat-e2ee-ig.facebook.com, DIRECT
+host, zendesk1.patreon.com, DIRECT
+host, zendesk2.patreon.com, DIRECT
+host, zendesk3.patreon.com, DIRECT
+host, zendesk4.patreon.com, DIRECT
+host, ww.dev.facebook.com, DIRECT
+host, ww.events.snapchat.com, DIRECT
+host, ww.facebook.com, DIRECT
+host, ww.facebook.com.vn, DIRECT
+host, ww.fbcdn.net, DIRECT
+host, ww.fbjs.facebook.com, DIRECT
+host, ww.ig.me, DIRECT
+host, ww.instagram.com, DIRECT
+host, ww.interknot-network.com, DIRECT
+host, ww.intg.snapchat.com, DIRECT
+host, ww.linkedin.com, DIRECT
+host, ww.my-od.facebook.com, DIRECT
+host, ww.patreon.com, DIRECT
+host, ww.pixiv.net, DIRECT
+host, ww.quora.com, DIRECT
+host, ww.ru-ru.facebook.com, DIRECT
+host, ww.snapchat.com, DIRECT
+host, ww.tiktok.com, DIRECT
+host, ww.tiktokv.com, DIRECT
+host, ww.tiktokw.eu, DIRECT
+host, ww.twitter.com, DIRECT
+host, ww.x.com, DIRECT
+host, a-api.dzcdn.net, DIRECT
+host, a-cdn-files.dzcdn.net, DIRECT
+host, a-cdntest-content.dzcdn.net, DIRECT
+host, a-cdntest-files.dzcdn.net, DIRECT
+host, a-cdntest-images.dzcdn.net, DIRECT
+host, a-cdntest-proxy-0.dzcdn.net, DIRECT
+host, a-v2.sndcdn.com, DIRECT
+host, aaa.deezer.com, DIRECT
+host, account.deezer.com, DIRECT
+host, accounts.scdn.co, DIRECT
+host, accounts.spotify.com, DIRECT
+host, activation.deezer.com, DIRECT
+host, affiliate.deezer.com, DIRECT
+host, alertmanager.metabrainz.org, DIRECT
+host, ansync.deezer.com, DIRECT
+host, ap-guc3.spotify.com, DIRECT
+host, api-auth.soundcloud.com, DIRECT
+host, api-partner.spotify.com, DIRECT
+host, api-segment.dzcdn.net, DIRECT
+host, api-v2.soundcloud.com, DIRECT
+host, api-websub.deezer.com, DIRECT
+host, api.deezer.com, DIRECT
+host, api.dzcdn.net, DIRECT
+host, api.spotify.com, DIRECT
+host, apresolve.spotify.com, DIRECT
+host, artists.soundcloud.com, DIRECT
+host, artists.spotify.com, DIRECT
+host, assets.web.soundcloud.cloud, DIRECT
+host, audio-fa-tls13.spotifycdn.com, DIRECT
+host, audio-fa.scdn.co, DIRECT
+host, auth.deezer.com, DIRECT
+host, auth.metabrainz.org, DIRECT
+host, auth.tidal.com, DIRECT
+host, backstage.deezer.com, DIRECT
+host, beta.musicbrainz.org, DIRECT
+host, blog.metabrainz.org, DIRECT
+host, blog.musicbrainz.org, DIRECT
+host, bo-partners.deezer.com, DIRECT
+host, bo-playlist.deezer.com, DIRECT
+host, bono.metabrainz.org, DIRECT
+host, byspotify.com, DIRECT
+host, canvaz.scdn.co, DIRECT
+host, career.tidal.com, DIRECT
+host, cdn-assets.dzcdn.net, DIRECT
+host, cdn-content.dzcdn.net, DIRECT
+host, cdn-files.dzcdn.net, DIRECT
+host, cdn-images.dzcdn.net, DIRECT
+host, cdn-segment.dzcdn.net, DIRECT
+host, cdns-assets.dzcdn.net, DIRECT
+host, cdns-content.dzcdn.net, DIRECT
+host, cdns-files.dzcdn.net, DIRECT
+host, cdns-images.dzcdn.net, DIRECT
+host, cdnt-content.dzcdn.net, DIRECT
+host, cdnt-files.dzcdn.net, DIRECT
+host, cdnt-images.dzcdn.net, DIRECT
+host, cdnt-preview.dzcdn.net, DIRECT
+host, cdnt-stream.dzcdn.net, DIRECT
+host, cf-hls-media.sndcdn.com, DIRECT
+host, charts-images.scdn.co, DIRECT
+host, charts.spotify.com, DIRECT
+host, chatlogs.metabrainz.org, DIRECT
+host, clienttoken.spotify.com, DIRECT
+host, community.metabrainz.org, DIRECT
+host, concerts.spotifycdn.com, DIRECT
+host, connect.deezer.com, DIRECT
+host, consent.sndcdn.com, DIRECT
+host, copyrighttrollsmustdie.musicbrainz.org, DIRECT
+host, creators.deezer.com, DIRECT
+host, creatorsupport.deezer.com, DIRECT
+host, cs-pr-cf.audio.tidal.com, DIRECT
+host, curl-prod.deezer.com, DIRECT
+host, dalida.deezer.com, DIRECT
+host, dataconnect.deezer.com, DIRECT
+host, dealer.spotify.com, DIRECT
+host, deezer.com, DIRECT
+host, dev-gcast.deezer.com, DIRECT
+host, dev.metabrainz.org, DIRECT
+host, discovery.deezer.com, DIRECT
+host, drp-auth.deezer.com, DIRECT
+host, dwt.soundcloud.com, DIRECT
+host, dzcdn.net, DIRECT
+host, email.tidal.com, DIRECT
+host, en-pr-cf.audio.tidal.com, DIRECT
+host, en-pr-hw.audio.tidal.com, DIRECT
+host, encore.scdn.co, DIRECT
+host, exflow.tidal.com, DIRECT
+host, f-cdnt-preview-0.dzcdn.net, DIRECT
+host, f-cdnt-preview-1.dzcdn.net, DIRECT
+host, f-cdnt-preview-2.dzcdn.net, DIRECT
+host, f-cdnt-preview-3.dzcdn.net, DIRECT
+host, f-cdnt-preview-4.dzcdn.net, DIRECT
+host, f-cdnt-preview-5.dzcdn.net, DIRECT
+host, f-cdnt-preview-6.dzcdn.net, DIRECT
+host, f-cdnt-preview-7.dzcdn.net, DIRECT
+host, f-cdnt-preview-8.dzcdn.net, DIRECT
+host, f-cdnt-preview-9.dzcdn.net, DIRECT
+host, f-cdnt-preview-a.dzcdn.net, DIRECT
+host, f-cdnt-preview-b.dzcdn.net, DIRECT
+host, f-cdnt-preview-c.dzcdn.net, DIRECT
+host, f-cdnt-preview-d.dzcdn.net, DIRECT
+host, f-cdnt-preview-e.dzcdn.net, DIRECT
+host, f-cdnt-preview-f.dzcdn.net, DIRECT
+host, funkwhale-dev.metabrainz.org, DIRECT
+host, games-servers.deezer.com, DIRECT
+host, games.deezer.com, DIRECT
+host, gcast.deezer.com, DIRECT
+host, generic.wg.spotify.com, DIRECT
+host, gew1-dealer.spotify.com, DIRECT
+host, gew1-spclient.spotify.com, DIRECT
+host, graph.soundcloud.com, DIRECT
+host, handshake.deezer.com, DIRECT
+host, heads-fa-tls13.spotifycdn.com, DIRECT
+host, hhe.deezer.com, DIRECT
+host, homepod.deezer.com, DIRECT
+host, i-0075afab4ad97d550.vault.tidal.com, DIRECT
+host, i-04825e2b8cad5fc0c.vault.tidal.com, DIRECT
+host, i-04a583fa553adffb1.vault.tidal.com, DIRECT
+host, i-lo.scdn.co, DIRECT
+host, i.scdn.co, DIRECT
+host, i1.sndcdn.com, DIRECT
+host, image-cdn-fa.spotifycdn.com, DIRECT
+host, image-sandbox.tidal.com, DIRECT
+host, images.deezer.com, DIRECT
+host, info.tidal.com, DIRECT
+host, internalapiref.tidal.com, DIRECT
+host, inward.deezer.com, DIRECT
+host, jobs.deezer.com, DIRECT
+host, label.tidal.com, DIRECT
+host, lb.vault.tidal.com, DIRECT
+host, learning.dzcdn.net, DIRECT
+host, link-clicks.dzcdn.net, DIRECT
+host, m.deezer.com, DIRECT
+host, media.deezer.com, DIRECT
+host, mrkt.spotifycdn.com, DIRECT
+host, musicbrainz.org, DIRECT
+host, mydeezerstory.deezer.com, DIRECT
+host, mydeezeryear.deezer.com, DIRECT
+host, newjira.metabrainz.org, DIRECT
+host, nexus.tidal.com, DIRECT
+host, oauth.deezer.com, DIRECT
+host, oauth.metabrainz.org, DIRECT
+host, open.spotify.com, DIRECT
+host, openapi.tidal.com, DIRECT
+host, papi.deezer.com, DIRECT
+host, partners.deezer.com, DIRECT
+host, pay.deezer.com, DIRECT
+host, payment.deezer.com, DIRECT
+host, picard-docs.musicbrainz.org, DIRECT
+host, picard.musicbrainz.org, DIRECT
+host, pickasso.spotifycdn.com, DIRECT
+host, pipe.deezer.com, DIRECT
+host, pixel-static.spotify.com, DIRECT
+host, platform.deezer.com, DIRECT
+host, plumbers.deezer.com, DIRECT
+host, podcasters.deezer.com, DIRECT
+host, podz-content.spotifycdn.com, DIRECT
+host, premier.sonos.dzcdn.net, DIRECT
+host, preprod-preview.deezer.com, DIRECT
+host, preprod-stream.deezer.com, DIRECT
+host, preview.deezer.com, DIRECT
+host, prometheus.metabrainz.org, DIRECT
+host, promgraf.metabrainz.org, DIRECT
+host, pscdn.co, DIRECT
+host, pulsar.tidal.com, DIRECT
+host, queue.deezer.com, DIRECT
+host, remote.tidal.com, DIRECT
+host, reports.tidal.com, DIRECT
+host, research.deezer.com, DIRECT
+host, scdn.co, DIRECT
+host, search.musicbrainz.org, DIRECT
+host, secure.sndcdn.com, DIRECT
+host, seed-mix-image.spotifycdn.com, DIRECT
+host, seektables.scdn.co, DIRECT
+host, shaker.deezer.com, DIRECT
+host, shazam.apple.com, DIRECT
+host, shazam.com, DIRECT
+host, sms.tidal.com, DIRECT
+host, snd.sc, DIRECT
+host, sndcdn.com, DIRECT
+host, sonos-queue-bridge.deezer.com, DIRECT
+host, soundcloud.com, DIRECT
+host, sp-ad-cf.audio.tidal.com, DIRECT
+host, sp-ad-hw.audio.tidal.com, DIRECT
+host, sp-pr-cf-ext.audio.tidal.com, DIRECT
+host, sp-pr-cf.audio.tidal.com, DIRECT
+host, spclient.wg.spotify.com, DIRECT
+host, spleeterpro.deezer.com, DIRECT
+host, spoti.fi, DIRECT
+host, spotify-everywhere.com, DIRECT
+host, spotify.com, DIRECT
+host, spotify.demdex.net, DIRECT
+host, spotify.design, DIRECT
+host, spotifycdn.com, DIRECT
+host, spotifycdn.net, DIRECT
+host, spotifycharts.com, DIRECT
+host, spotifycodes.com, DIRECT
+host, spotifyforbrands.com, DIRECT
+host, spotifyjobs.com, DIRECT
+host, sprint.tidal.com, DIRECT
+host, stage.tidal.com, DIRECT
+host, stats.metabrainz.org, DIRECT
+host, stream.deezer.com, DIRECT
+host, support.deezer.com, DIRECT
+host, support.tidal.com, DIRECT
+host, t.scdn.co, DIRECT
+host, test-api.musicbrainz.org, DIRECT
+host, test-community.metabrainz.org, DIRECT
+host, test.metabrainz.org, DIRECT
+host, test.musicbrainz.org, DIRECT
+host, thisis-images.spotifycdn.com, DIRECT
+host, tickets.metabrainz.org, DIRECT
+host, translations.metabrainz.org, DIRECT
+host, try.tidal.com, DIRECT
+host, tv2.deezer.com, DIRECT
+host, ugcf.tidal.com, DIRECT
+host, vdp.deezer.com, DIRECT
+host, video-akpcw-cdn-spotify-com.akamaized.net, DIRECT
+host, wap.spotifycdn.com, DIRECT
+host, web-sdk-assets.spotifycdn.com, DIRECT
+host, webviews.deezer.com, DIRECT
+host, weight-images.deezer.com, DIRECT
+host, weight-images.dzcdn.net, DIRECT
+host, wellbeing.deezer.com, DIRECT
+host, wellbeing.dzcdn.net, DIRECT
+host, whatsup.metabrainz.org, DIRECT
+host, widget.deezer.com, DIRECT
+host, wiki.musicbrainz.org, DIRECT
+host, wl.spotify.com, DIRECT
+host, wolf.metabrainz.org, DIRECT
+host, ws.deezer.com, DIRECT
+host, ws.musicbrainz.org, DIRECT
+host, zen.deezer.com, DIRECT
+host, ww.deezer.com, DIRECT
+host, ww.dzcdn.net, DIRECT
+host, ww.musicbrainz.org, DIRECT
+host, ww.picard.musicbrainz.org, DIRECT
+host, ww.soundcloud.com, DIRECT
+host, ww.spotify.com, DIRECT
